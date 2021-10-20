@@ -7,6 +7,6 @@ public class HelloJisujin {
 	 */
 	
 	public void hoo() {
-		
+	 System.out.println("짜증나진짜");
 	}
 }
