@@ -11,9 +11,9 @@
 <<<<<<< HEAD
 	<h2>프로젝트 가봅시당~~</h2>
 	<p> 이거됐으면 좋겠다 </p>
-=======
+
 	<h2>프로젝트 가봅시다!</h2>
 	<h3>프로젝트 고고고고고고</h3>
->>>>>>> branch 'master' of https://github.com/sun02036/cowork.git
+
 </body>
 </html>
