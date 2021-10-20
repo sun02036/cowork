@@ -9,6 +9,6 @@ public class HelloHonggildong {
 	 */
 	
 	public void hoo() {
-		
+		System.out.print("된다");
 	}
 }
